@@ -1,0 +1,21 @@
+{
+    "name": "djx/ads-data-support",
+    "description": "ads-data-support&媒体广告数据接入支持",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "djx",
+            "email": "909638682@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "AdsDataSupport\\Library\\": "src/AdsDataSupport/Library"
+        }
+    }
+}
