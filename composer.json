@@ -1,11 +1,11 @@
 {
-    "name": "djx/ads-data-support",
+    "name": "dongjx888/ads-data-support",
     "description": "ads-data-support&媒体广告数据接入支持",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "djx",
+            "name": "dongjx",
             "email": "909638682@qq.com"
         }
     ],
